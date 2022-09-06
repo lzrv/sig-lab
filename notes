@@ -1,0 +1,11 @@
+2022/09/06
+
+TODO:
+* install script
+* deploy apps
+  - bd
+  - cnc
+  - codedx
+* monitoring
+  - test opensearch
+    https://www.opensearch.org/
